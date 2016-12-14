@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Rawat's Blog"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Abhinav Rawat"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Abhinav Rawat"
+  avatar           : "/assets/img/2.jpg"
+  bio              : "In love with Electronics"
+  location         : "Pilani, RJ, IN"
+  email            : "rabhinav452@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
